@@ -1,5 +1,7 @@
 # HTML Tabelle mit CSS gestalten
 
+HTML Tabelle gestalten mit CSS für Anfänger. In diesem Tutorial für Anfänger zeige ich dir wie du eine HTML Tabelle mit CSS mit einfachen Mitteln gestalten kannst. Dabei ist hier der thead, tbody und wir stylen auch einen aktiven Datensatz. Happy Coding!
+
 [![Tutorial bei Youtube](http://img.youtube.com/vi/20HJ0ADOWAA/0.jpg)](https://youtu.be/20HJ0ADOWAA)
 
 ## 📺 Playlists
@@ -18,7 +20,7 @@
 
 ## Vernetze dich:
 
-[<img align="left" alt="programmierenmitmario.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mitmario.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="programmierenmitmario | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="programmierenmitmario | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="programmierenmitmario | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -29,7 +31,7 @@
 
 [MIT](LICENSE)
 
-[website]: http://programmierenmitmario.de
+[website]: https://mitmario.dev
 [twitter]: https://twitter.com/programmierenm
 [youtube]: https://youtube.com/programmierenmitmario
 [instagram]: https://instagram.com/programmierenm
